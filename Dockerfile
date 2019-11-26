@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full:lastest
+FROM gitpod/workspace-full:latest
 
 #install: heroku cli
 USER gitpod
